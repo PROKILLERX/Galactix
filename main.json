@@ -1,0 +1,26 @@
+{
+  "season": 1,
+  "img": "def",
+  "files": {
+    "Fabric API": [
+      "fabric-api",
+      "--0.46.4+1.18.jar",
+      "https://www.curseforge.com/minecraft/mc-mods/fabric-api/download/3634318"
+    ],
+    "Iris": [
+      "iris-mc",
+      "1.18.1-1.2.0-pre.jar",
+      "https://www.curseforge.com/minecraft/mc-mods/irisshaders/download/3612857"
+    ],
+    "Replay Mod": [
+      "replaymod",
+      "-1.18.1-2.6.3.jar",
+      "https://minio.replaymod.com/replaymod/replaymod-1.18.1-2.6.3.jar"
+    ],
+    "Voice Chat": [
+      "voicechat-fabric",
+      "-1.18.1-2.2.16.jar",
+      "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/download/3630305"
+    ]
+  }
+}
